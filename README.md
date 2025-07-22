@@ -8,6 +8,10 @@ This package includes the core reasoning stack developed under the ARC protocol 
 - Meta-Layer Audit Builder : ARC Supervisor
 - Snapshots: Real use case simulations (ElonGov, Grok) | You can remap field like this or put Layer 1/2 and this Snapshot to ARC Builder to help you remapping field
 
+<a href="https://youtu.be/KM0s-emHB88" target="_blank">
+  <img src="https://img.youtube.com/vi/KM0s-emHB88/hqdefault.jpg" width="640" alt="ARC OS demo"/>
+</a>
+
 Every single file had role and unique Its easier to ask your LLM how its work after you uploaded, paste or attach spec to LLM
 
 I can tell you that all of these can structure on every or most AI model, Agent or whatever you want because its logic framework for transparency | all of these can work and deployed, its in early stage maybe not user-frienly but you can try ❤️
