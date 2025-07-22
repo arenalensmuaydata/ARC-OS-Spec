@@ -23,7 +23,8 @@ Each file is licensed individually and collectively under LICENSE.md.
 To deploy, use, or embed this logic protocol into any public system, written permission is required.
 
 ⭐️ If you think it's useful
+📧 Email or DM feedback after clone
 
 ## Author
 - Email: arenalens.muaydata@gmail.com  
-- X (Twitter): @autononthagorn  
+- X (Twitter): @autononthagorn
