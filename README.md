@@ -1,6 +1,6 @@
 # ARC OS Reasoning Framework
 
-[<img src="assets/ARC%20OS%20-%201-Pager%20Overview.png" width="600">](assets/ARC%20OS%20-%201-Pager%20Overview.png)
+[<img src="assets/ARC_OS_1pager.png" width="600">](assets/ARC_OS_1pager.png)
 
 This package includes the core reasoning stack developed under the ARC protocol design:  
 - Layer 1: Input Normalization (Muay Glasses) | Normalize data into Number
