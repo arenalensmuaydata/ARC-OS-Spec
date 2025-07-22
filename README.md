@@ -22,6 +22,8 @@ I can tell you that all of these can structure on every or most AI model, Agent 
 Each file is licensed individually and collectively under LICENSE.md.  
 To deploy, use, or embed this logic protocol into any public system, written permission is required.
 
+⭐️ If you think it's useful
+
 ## Author
 - Email: arenalens.muaydata@gmail.com  
 - X (Twitter): @autononthagorn  
