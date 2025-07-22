@@ -1,0 +1,51 @@
+[
+  {
+    "filename": "Muay_Glasses_Input_Generator_EN_v1.1_LICENSED.md",
+    "sha256": "1daea899181abfae5bd12d08b22492fccaaf303b9869a6d437e526d4c4403f21",
+    "uuid": "arc-os-v1-proto",
+    "version": "v1.5",
+    "timestamp": "2025-07-19T08:30:09.801245"
+  },
+  {
+    "filename": "Seannoi_Prediction_Core_EN_v1.1_LICENSED.md",
+    "sha256": "8b15e2cf6e474afe61daf1751c820502a6551fe48b31d08ad8b900ef3a68f9e2",
+    "uuid": "arc-os-v1-proto",
+    "version": "v1.5",
+    "timestamp": "2025-07-19T08:30:09.801524"
+  },
+  {
+    "filename": "Advisor_Meta_Layer_EN_v1.1_LICENSED.md",
+    "sha256": "8cc6d2283c6d0ab32876bb06157e7748255a68a1dcdd6526a4107c40d19c9787",
+    "uuid": "arc-os-v1-proto",
+    "version": "v1.5",
+    "timestamp": "2025-07-19T08:30:09.801769"
+  },
+  {
+    "filename": "ARC_Builder_EN_v1.0_LICENSED.md",
+    "sha256": "5ec2ab999faa5ae2496bdbbede57be893c8aeeb7743fe5ae4a7b634e46ac9474",
+    "uuid": "arc-os-v1-proto",
+    "version": "v1.5",
+    "timestamp": "2025-07-19T08:30:09.802301"
+  },
+  {
+    "filename": "ARC_Snapshot_ElonGov_FieldRemap_2025-07-16_LICENSED.md",
+    "sha256": "b7b29a432e703cecb05fb935e0edd277f3367a6ea7a92fc3ae299432eac86bf6",
+    "uuid": "arc-os-v1-proto",
+    "version": "v1.5",
+    "timestamp": "2025-07-19T08:30:09.802538"
+  },
+  {
+    "filename": "ARC_Snapshot_Grok_FieldRemap_2025-07-16_LICENSED.md",
+    "sha256": "d33a6a2c595334294d9d11632472f901f239128e2f94ca37676090d22420f54e",
+    "uuid": "arc-os-v1-proto",
+    "version": "v1.5",
+    "timestamp": "2025-07-19T08:30:09.802743"
+  },
+  {
+    "filename": "ARC_Supervisor_EN_v1.0_LICENSED.md",
+    "sha256": "6f8354b771f8aaace3222f7674e3facccb9387e290c83fce5d14df47f11eb564",
+    "uuid": "arc-os-v1-proto",
+    "version": "v1.5",
+    "timestamp": "2025-07-19T08:30:09.803008"
+  }
+]
