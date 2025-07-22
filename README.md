@@ -1,5 +1,7 @@
 # ARC OS Reasoning Framework
 
+[<img src="assets/ARC%20OS%20-%201-Pager%20Overview.png" width="600">](assets/ARC%20OS%20-%201-Pager%20Overview.png)
+
 This package includes the core reasoning stack developed under the ARC protocol design:  
 - Layer 1: Input Normalization (Muay Glasses) | Normalize data into Number
 - Layer 2: Prediction Structure (Seannoi Core)  | This not Prediction its Logic tilt %
