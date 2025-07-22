@@ -10,6 +10,7 @@ This package includes the core reasoning stack developed under the ARC protocol 
 - Meta-Layer Audit Builder : ARC Supervisor
 - Snapshots: Real use case simulations (ElonGov, Grok) | You can remap field like this or put Layer 1/2 and this Snapshot to ARC Builder to help you remapping field
 
+Video Demo
 <a href="https://youtu.be/KM0s-emHB88" target="_blank">
   <img src="https://img.youtube.com/vi/KM0s-emHB88/hqdefault.jpg" width="640" alt="ARC OS demo"/>
 </a>
