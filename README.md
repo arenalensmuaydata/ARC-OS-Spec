@@ -43,7 +43,7 @@ If it helps with your prompts or decisions, let me know!
 - **Works on web?** No, but you can build it into one (permission required).
 
 ## License
-Each file is licensed under [LICENSE.md](LICENSE.md) (Logic Attribution v1.5 – NC / ND / DeployRestricted).  
+Each file is licensed under [LICENSE.md](LICENSES/LICENSE.md) (Logic Attribution v1.5 – NC / ND / DeployRestricted).  
 - Attribution required.  
 - No commercial use or deployment without written permission.  
 - Forks for private use only; no publication or AI integration.  
